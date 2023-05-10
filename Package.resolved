@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "testpackagea",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adavalli123/TestPackageA.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dfbb0511b674f34216b220540ee9de3384c0c09a"
+      }
+    },
+    {
+      "identity" : "testpackageb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adavalli123/TestPackageB.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "021b97c373c0bac2282deabda955666c6c9e8170"
+      }
+    }
+  ],
+  "version" : 2
+}
